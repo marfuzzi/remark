@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and-hello(world)",
           "children": [
@@ -78,6 +79,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and-hello(world)",
           "children": [
@@ -150,6 +152,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and)helloworld)",
           "children": [
@@ -222,6 +225,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and)helloworld)",
           "children": [
@@ -294,6 +298,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and-hello(world)",
           "children": [
@@ -366,6 +371,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and-hello(world)",
           "children": [
@@ -438,6 +444,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and)helloworld)",
           "children": [
@@ -510,6 +517,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and)helloworld)",
           "children": [
@@ -582,6 +590,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and-hello(world)",
           "alt": "Hello",
@@ -636,6 +645,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and-hello(world)",
           "alt": "Hello",
@@ -690,6 +700,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and)helloworld)",
           "alt": "Hello",
@@ -744,6 +755,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and)helloworld)",
           "alt": "Hello",
@@ -798,6 +810,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and-hello(world)",
           "alt": "Hello",
@@ -852,6 +865,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and-hello(world)",
           "alt": "Hello",
@@ -906,6 +920,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and)helloworld)",
           "alt": "Hello",
@@ -960,6 +975,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world(and)helloworld)",
           "alt": "Hello",

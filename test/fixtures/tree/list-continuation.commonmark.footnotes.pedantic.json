@@ -315,6 +315,7 @@
                 },
                 {
                   "type": "link",
+                  "markup": ["[", "](", ")"],
                   "title": null,
                   "url": "http://google.com",
                   "children": [

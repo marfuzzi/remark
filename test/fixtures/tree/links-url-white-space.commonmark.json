@@ -78,6 +78,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./wo rld.html",
           "children": [
@@ -204,6 +205,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./wo rld.png",
           "alt": "Hello",

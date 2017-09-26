@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [],
@@ -60,6 +61,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [],
@@ -114,6 +116,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "alt": null,
@@ -168,6 +171,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "alt": null,

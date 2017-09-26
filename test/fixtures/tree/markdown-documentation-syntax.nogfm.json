@@ -79,6 +79,7 @@
               "children": [
                 {
                   "type": "link",
+                  "markup": ["[", "](", ")"],
                   "title": null,
                   "url": "#overview",
                   "children": [
@@ -145,6 +146,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#philosophy",
                           "children": [
@@ -220,6 +222,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#html",
                           "children": [
@@ -295,6 +298,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#autoescape",
                           "children": [
@@ -407,6 +411,7 @@
               "children": [
                 {
                   "type": "link",
+                  "markup": ["[", "](", ")"],
                   "title": null,
                   "url": "#block",
                   "children": [
@@ -473,6 +478,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#p",
                           "children": [
@@ -548,6 +554,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#header",
                           "children": [
@@ -623,6 +630,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#blockquote",
                           "children": [
@@ -698,6 +706,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#list",
                           "children": [
@@ -773,6 +782,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#precode",
                           "children": [
@@ -848,6 +858,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#hr",
                           "children": [
@@ -966,6 +977,7 @@
               "children": [
                 {
                   "type": "link",
+                  "markup": ["[", "](", ")"],
                   "title": null,
                   "url": "#span",
                   "children": [
@@ -1032,6 +1044,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#link",
                           "children": [
@@ -1107,6 +1120,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#em",
                           "children": [
@@ -1182,6 +1196,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#code",
                           "children": [
@@ -1257,6 +1272,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#img",
                           "children": [
@@ -1371,6 +1387,7 @@
               "children": [
                 {
                   "type": "link",
+                  "markup": ["[", "](", ")"],
                   "title": null,
                   "url": "#misc",
                   "children": [
@@ -1437,6 +1454,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#backslash",
                           "children": [
@@ -1512,6 +1530,7 @@
                       "children": [
                         {
                           "type": "link",
+                          "markup": ["[", "](", ")"],
                           "title": null,
                           "url": "#autolink",
                           "children": [
@@ -4184,6 +4203,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "#html",
           "children": [

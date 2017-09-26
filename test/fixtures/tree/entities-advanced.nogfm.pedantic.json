@@ -137,6 +137,7 @@
             },
             {
               "type": "link",
+              "markup": ["[", "](", ")"],
               "title": null,
               "url": "http://example©xample.com",
               "children": [
@@ -312,6 +313,7 @@
             },
             {
               "type": "link",
+              "markup": ["[", "](", ")"],
               "title": "in some pl©ce",
               "url": "~/some©file",
               "children": [
@@ -422,6 +424,7 @@
             },
             {
               "type": "link",
+              "markup": ["[", "](", ")"],
               "title": "in some pl©ce",
               "url": "~/some©file",
               "children": [
@@ -534,6 +537,7 @@
             },
             {
               "type": "image",
+              "markup": ["[", "](", ")"],
               "title": "in some pl©ce",
               "url": "~/some©file",
               "alt": "\n  l©nks\n",
@@ -653,6 +657,7 @@
             },
             {
               "type": "image",
+              "markup": ["[", "](", ")"],
               "title": "in some pl©ce",
               "url": "~/some©file",
               "alt": "l©lnks",

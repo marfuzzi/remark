@@ -23,6 +23,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://example.com/hello-world",
           "children": [
@@ -112,6 +113,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://foo.example.com/(hello[world])",
           "children": [
@@ -201,6 +203,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "mailto:foo@bar.com",
           "children": [

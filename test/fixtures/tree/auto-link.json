@@ -23,6 +23,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://example.com/",
           "children": [
@@ -112,6 +113,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "mailto:somename@example.com",
           "children": [
@@ -201,6 +203,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "mailto:somename@example.com",
           "children": [
@@ -290,6 +293,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://example.com/?foo=1&bar=2",
           "children": [
@@ -411,6 +415,7 @@
               "children": [
                 {
                   "type": "link",
+                  "markup": ["[", "](", ")"],
                   "title": null,
                   "url": "http://example.com/",
                   "children": [
@@ -574,6 +579,7 @@
             },
             {
               "type": "link",
+              "markup": ["[", "](", ")"],
               "title": null,
               "url": "http://example.com/",
               "children": [

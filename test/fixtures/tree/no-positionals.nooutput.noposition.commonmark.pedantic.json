@@ -103,6 +103,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://example.com",
           "children": [

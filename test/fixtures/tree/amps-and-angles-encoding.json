@@ -410,6 +410,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "/script?foo=1&bar=2",
           "children": [
@@ -499,6 +500,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "/script?foo=1&bar=2",
           "children": [

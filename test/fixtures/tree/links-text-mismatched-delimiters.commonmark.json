@@ -23,6 +23,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [
@@ -112,6 +113,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [
@@ -201,6 +203,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [
@@ -290,6 +293,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [

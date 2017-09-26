@@ -23,6 +23,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://spec.commonmark.org/0.17/#example-25",
           "children": [
@@ -235,6 +236,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://spec.commonmark.org/0.26/#example-33",
           "children": [

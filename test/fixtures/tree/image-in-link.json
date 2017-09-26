@@ -7,11 +7,13 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://shields.io",
           "children": [
             {
               "type": "image",
+              "markup": ["[", "](", ")"],
               "title": null,
               "url": "https://img.shields.io/badge/unicorn-approved-ff69b4.svg",
               "alt": "Unicorn approved",
@@ -64,11 +66,13 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://travis-ci.org/wooorm/mdast",
           "children": [
             {
               "type": "image",
+              "markup": ["[", "](", ")"],
               "title": null,
               "url": "https://img.shields.io/travis/wooorm/mdast.svg?style=flat",
               "alt": "Build Status",
@@ -121,11 +125,13 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "An example",
           "url": "http://example.com",
           "children": [
             {
               "type": "image",
+              "markup": ["[", "](", ")"],
               "title": null,
               "url": "https://img.shields.io/badge/style-flat--squared-green.svg?style=flat-square",
               "alt": "Be Square",

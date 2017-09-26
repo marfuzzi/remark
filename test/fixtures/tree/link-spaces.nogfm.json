@@ -136,6 +136,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://foxtrot.golf",
           "children": [
@@ -191,6 +192,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "india.com/juliett",
           "alt": "hotel",

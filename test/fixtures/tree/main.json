@@ -1240,6 +1240,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "//hello",
           "children": [
@@ -1296,6 +1297,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "a title",
           "url": "src",
           "alt": "alt",
@@ -1334,6 +1336,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "src",
           "alt": null,

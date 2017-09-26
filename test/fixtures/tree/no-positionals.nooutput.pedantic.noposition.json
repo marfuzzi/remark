@@ -89,6 +89,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "href": "http://example.com",
           "children": [

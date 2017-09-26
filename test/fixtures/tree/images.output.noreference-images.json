@@ -23,6 +23,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "Amet",
           "url": "http://amet.com/amet.jpeg",
           "alt": "amet",
@@ -94,6 +95,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "Finibus",
           "url": "http://finibus.com/finibus.png",
           "alt": "finibus",
@@ -130,6 +132,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "Facilisi",
           "url": "http://facilisi.com/facilisi.gif",
           "alt": "facilisi",
@@ -201,6 +204,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "Faucibus",
           "url": "http://faucibus.com/faucibus.tiff",
           "alt": "faucibus",

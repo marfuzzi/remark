@@ -1792,6 +1792,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "/somethingelse/",
           "children": [

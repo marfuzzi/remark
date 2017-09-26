@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./world and some spaces.html",
           "children": [
@@ -61,6 +62,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and a title",
           "url": "./world and some spaces.html",
           "children": [

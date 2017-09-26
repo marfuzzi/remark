@@ -2746,6 +2746,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and text",
           "url": "./world.html",
           "children": [
@@ -2945,6 +2946,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and \"escapes\"",
           "url": "./world.html",
           "children": [
@@ -3000,6 +3002,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and \"named entities\"",
           "url": "./world.html",
           "children": [
@@ -3055,6 +3058,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and \"numbered entities\"",
           "url": "./world.html",
           "children": [
@@ -3146,6 +3150,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and text",
           "url": "./world.html",
           "children": [
@@ -3345,6 +3350,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and 'escapes'",
           "url": "./world.html",
           "children": [
@@ -3400,6 +3406,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and 'named entities'",
           "url": "./world.html",
           "children": [
@@ -3455,6 +3462,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and 'numbered entities'",
           "url": "./world.html",
           "children": [
@@ -3546,6 +3554,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and text",
           "url": "./world.html",
           "children": [
@@ -3601,6 +3610,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and (matching delimiters",
           "url": "./world.html",
           "children": [
@@ -3673,6 +3683,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and (mismatched delimiters",
           "url": "./world.html",
           "children": [
@@ -3728,6 +3739,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and (escapes)",
           "url": "./world.html",
           "children": [
@@ -3783,6 +3795,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and (named entities)",
           "url": "./world.html",
           "children": [
@@ -3838,6 +3851,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "and (numbered entities)",
           "url": "./world.html",
           "children": [
@@ -3965,6 +3979,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and text",
           "url": "./world.png",
           "alt": "Hello",
@@ -4110,6 +4125,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and \"escapes\"",
           "url": "./world.png",
           "alt": "Hello",
@@ -4147,6 +4163,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and \"named entities\"",
           "url": "./world.png",
           "alt": "Hello",
@@ -4184,6 +4201,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and \"numbered entities\"",
           "url": "./world.png",
           "alt": "Hello",
@@ -4257,6 +4275,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and text",
           "url": "./world.png",
           "alt": "Hello",
@@ -4402,6 +4421,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and 'escapes'",
           "url": "./world.png",
           "alt": "Hello",
@@ -4439,6 +4459,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and 'named entities'",
           "url": "./world.png",
           "alt": "Hello",
@@ -4476,6 +4497,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and 'numbered entities'",
           "url": "./world.png",
           "alt": "Hello",
@@ -4549,6 +4571,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and text",
           "url": "./world.png",
           "alt": "Hello",
@@ -4586,6 +4609,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and (matching delimiters",
           "url": "./world.png",
           "alt": "Hello",
@@ -4640,6 +4664,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and (mismatched delimiters",
           "url": "./world.png",
           "alt": "Hello",
@@ -4677,6 +4702,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and (escapes)",
           "url": "./world.png",
           "alt": "Hello",
@@ -4714,6 +4740,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and (named entities)",
           "url": "./world.png",
           "alt": "Hello",
@@ -4751,6 +4778,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "and (numbered entities)",
           "url": "./world.png",
           "alt": "Hello",

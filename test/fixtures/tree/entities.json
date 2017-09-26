@@ -603,6 +603,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "in some plæce",
           "url": "~/some—file",
           "children": [
@@ -709,6 +710,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "© Someone",
           "url": "~/an–image.png",
           "alt": "ímages",

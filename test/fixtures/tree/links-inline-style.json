@@ -23,6 +23,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "/url/",
           "children": [
@@ -95,6 +96,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "title",
           "url": "/url/",
           "children": [
@@ -167,6 +169,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "title preceded by two spaces",
           "url": "/url/",
           "children": [
@@ -239,6 +242,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "title preceded by a tab",
           "url": "/url/",
           "children": [
@@ -311,6 +315,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "title has spaces afterward",
           "url": "/url/",
           "children": [
@@ -527,6 +532,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "",
           "children": [

@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [
@@ -146,6 +147,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [
@@ -286,6 +288,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "alt": "Hello [world]!",
@@ -340,6 +343,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "alt": "Hello [world]!",
@@ -394,6 +398,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [
@@ -534,6 +539,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "children": [
@@ -674,6 +680,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "alt": "Hello [world]!",
@@ -728,6 +735,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "./hello-world.html",
           "alt": "Hello [world]!",

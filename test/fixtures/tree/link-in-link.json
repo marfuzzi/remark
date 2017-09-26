@@ -7,6 +7,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://shields.io",
           "children": [
@@ -62,6 +63,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "mdast",
           "url": "https://travis-ci.org/wooorm/mdast",
           "children": [
@@ -117,6 +119,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "An example",
           "url": "http://example.com",
           "children": [

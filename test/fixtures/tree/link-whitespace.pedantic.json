@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo charlie",
           "children": [
@@ -78,6 +79,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo\tcharlie",
           "children": [
@@ -150,6 +152,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo\ncharlie",
           "children": [
@@ -226,6 +229,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo charlie",
           "alt": "alpha",
@@ -280,6 +284,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo\tcharlie",
           "alt": "alpha",
@@ -334,6 +339,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo\ncharlie",
           "alt": "alpha",
@@ -409,6 +415,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo",
           "children": [
@@ -498,6 +505,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo",
           "children": [
@@ -587,6 +595,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo",
           "children": [
@@ -663,6 +672,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo",
           "children": [
@@ -735,6 +745,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo",
           "children": [
@@ -807,6 +818,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "https://example.com?bravo",
           "children": [

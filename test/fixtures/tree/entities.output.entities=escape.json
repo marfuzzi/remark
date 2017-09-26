@@ -326,6 +326,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://at&t.com",
           "children": [
@@ -414,6 +415,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://at&t.com",
           "children": [
@@ -502,6 +504,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://at&t.com",
           "children": [
@@ -677,6 +680,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://at&t.com",
           "children": [
@@ -731,6 +735,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://at&t.com",
           "children": [
@@ -785,6 +790,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://at&t.com",
           "children": [
@@ -926,6 +932,7 @@
       "children": [
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "AT&T",
           "url": "http://att.com",
           "children": [
@@ -980,6 +987,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "AT&T",
           "url": "http://att.com",
           "children": [
@@ -1034,6 +1042,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "AT&T",
           "url": "http://example.com",
           "children": [
@@ -1175,6 +1184,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://at&t.com/fav.ico",
           "alt": "With entity",
@@ -1211,6 +1221,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://at&t.com/fav.ico",
           "alt": "numeric entity",
@@ -1247,6 +1258,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://at&t.com/fav.ico",
           "alt": "without entity",
@@ -1370,6 +1382,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://att.com/fav.ico",
           "alt": "AT&T with entity",
@@ -1406,6 +1419,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://att.com/fav.ico",
           "alt": "AT&T with numeric entity",
@@ -1442,6 +1456,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": null,
           "url": "http://att.com/fav.ico",
           "alt": "AT&T without entity",
@@ -1565,6 +1580,7 @@
       "children": [
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "AT&T",
           "url": "http://att.com/fav.ico",
           "alt": "With entity",
@@ -1601,6 +1617,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "AT&T",
           "url": "http://att.com/fav.ico",
           "alt": "numeric entity",
@@ -1637,6 +1654,7 @@
         },
         {
           "type": "image",
+          "markup": ["[", "](", ")"],
           "title": "AT&T",
           "url": "http://att.com/fav.ico",
           "alt": "without entity",

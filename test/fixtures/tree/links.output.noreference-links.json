@@ -23,6 +23,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "Amet",
           "url": "http://amet.com",
           "children": [
@@ -112,6 +113,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "Finibus",
           "url": "http://finibus.com",
           "children": [
@@ -166,6 +168,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "Facilisi",
           "url": "http://facilisi.com",
           "children": [
@@ -255,6 +258,7 @@
         },
         {
           "type": "link",
+          "markup": ["[", "](", ")"],
           "title": "Faucibus",
           "url": "http://faucibus.com",
           "children": [
