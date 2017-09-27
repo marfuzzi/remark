@@ -2543,6 +2543,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -2635,6 +2636,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -2691,6 +2693,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -2743,6 +2746,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -3454,6 +3458,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -4372,6 +4377,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -4709,6 +4715,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -7190,6 +7197,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -7357,6 +7365,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -8310,6 +8319,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -8362,6 +8372,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -8541,6 +8552,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -9438,6 +9450,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -9580,6 +9593,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -11654,6 +11668,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -11706,6 +11721,7 @@
         },
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",

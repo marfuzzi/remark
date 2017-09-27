@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",
@@ -112,6 +113,7 @@
       "children": [
         {
           "type": "emphasis",
+          "markup": "*",
           "children": [
             {
               "type": "text",

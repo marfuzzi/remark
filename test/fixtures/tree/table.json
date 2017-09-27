@@ -1469,6 +1469,7 @@
               "children": [
                 {
                   "type": "emphasis",
+                  "markup": "*",
                   "children": [
                     {
                       "type": "text",
