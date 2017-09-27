@@ -23,6 +23,7 @@
         },
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "text",
@@ -75,6 +76,7 @@
         },
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "text",
@@ -162,6 +164,7 @@
         },
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "text",
@@ -214,6 +217,7 @@
         },
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "text",

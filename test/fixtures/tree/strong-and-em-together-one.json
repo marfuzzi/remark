@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "emphasis",
@@ -95,6 +96,7 @@
         },
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "emphasis",
@@ -184,6 +186,7 @@
       "children": [
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "emphasis",
@@ -273,6 +276,7 @@
         },
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "emphasis",

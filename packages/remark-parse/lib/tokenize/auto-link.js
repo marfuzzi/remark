@@ -137,6 +137,7 @@ function autoLink(eat, value, silent) {
 
   return eat(subvalue)({
     type: 'link',
+    markup: ['[', '](', ')'],
     title: null,
     url: decode(link),
     children: content

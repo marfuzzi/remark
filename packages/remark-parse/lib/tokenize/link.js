@@ -376,6 +376,7 @@ function link(eat, value, silent) {
 
   node = {
     type: isImage ? 'image' : 'link',
+    markup: ['[', '](', ')'],
     title: title || null,
     url: url
   };

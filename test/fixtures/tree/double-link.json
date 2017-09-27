@@ -147,6 +147,7 @@
         },
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "text",

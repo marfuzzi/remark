@@ -255,6 +255,7 @@ function tokenizeMention(eat, value, silent) {
 
     return eat(match[0])({
       type: 'link',
+      markup: ['[', '](', ')'],
       url: 'https://social-network/' + match[1],
       children: [{type: 'text', value: match[0]}]
     });

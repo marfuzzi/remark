@@ -2250,6 +2250,7 @@
       "children": [
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "text",
@@ -2953,6 +2954,7 @@
       "children": [
         {
           "type": "strong",
+          "markup": "**",
           "children": [
             {
               "type": "text",
