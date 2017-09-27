@@ -23,6 +23,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "simple case",
           "referenceType": "shortcut",
           "children": [
@@ -131,6 +132,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "line break",
           "referenceType": "shortcut",
           "children": [
@@ -226,6 +228,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "line break",
           "referenceType": "shortcut",
           "children": [
@@ -323,6 +326,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "that",
           "referenceType": "full",
           "children": [
@@ -377,6 +381,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "other",
           "referenceType": "shortcut",
           "children": [

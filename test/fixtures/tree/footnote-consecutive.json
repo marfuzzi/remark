@@ -24,6 +24,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^wiki",
           "referenceType": "shortcut",
           "children": [
@@ -96,6 +97,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^wiki2",
           "referenceType": "full",
           "children": [
@@ -150,6 +152,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^consecutive",
           "referenceType": "full",
           "children": [
@@ -257,6 +260,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^wiki",
           "referenceType": "shortcut",
           "children": [
@@ -313,6 +317,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^wiki2",
           "referenceType": "shortcut",
           "children": [
@@ -369,6 +374,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^name",
           "referenceType": "shortcut",
           "children": [
@@ -425,6 +431,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^consecutive",
           "referenceType": "shortcut",
           "children": [

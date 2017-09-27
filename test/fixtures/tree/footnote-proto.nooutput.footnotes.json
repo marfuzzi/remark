@@ -23,6 +23,7 @@
         },
         {
           "type": "footnoteReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "tostring",
           "position": {
             "start": {
@@ -57,6 +58,7 @@
         },
         {
           "type": "footnoteReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "__proto__",
           "position": {
             "start": {
@@ -91,6 +93,7 @@
         },
         {
           "type": "footnoteReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "constructor",
           "position": {
             "start": {

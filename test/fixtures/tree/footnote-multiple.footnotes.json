@@ -24,6 +24,7 @@
         },
         {
           "type": "footnoteReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "wiki",
           "position": {
             "start": {
@@ -76,6 +77,7 @@
         },
         {
           "type": "footnoteReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "wiki",
           "position": {
             "start": {

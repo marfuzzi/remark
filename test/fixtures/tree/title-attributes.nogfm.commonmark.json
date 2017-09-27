@@ -505,6 +505,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "hello",
           "referenceType": "shortcut",
           "children": [
@@ -577,6 +578,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "hello",
           "referenceType": "shortcut",
           "children": [
@@ -909,6 +911,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "hello",
           "referenceType": "shortcut",
           "children": [
@@ -981,6 +984,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "hello",
           "referenceType": "shortcut",
           "children": [
@@ -1720,6 +1724,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "hello",
           "referenceType": "shortcut",
           "alt": "Hello",
@@ -1774,6 +1779,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "hello",
           "referenceType": "shortcut",
           "alt": "Hello",
@@ -2016,6 +2022,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "hello",
           "referenceType": "shortcut",
           "alt": "Hello",
@@ -2070,6 +2077,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "hello",
           "referenceType": "shortcut",
           "alt": "Hello",

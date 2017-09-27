@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "alpha",
           "referenceType": "shortcut",
           "children": [
@@ -133,6 +134,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "alpha",
           "referenceType": "shortcut",
           "children": [
@@ -260,6 +262,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "alpha",
           "referenceType": "shortcut",
           "children": [
@@ -391,6 +394,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "alpha",
           "referenceType": "shortcut",
           "alt": "alpha",
@@ -500,6 +504,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "alpha",
           "referenceType": "shortcut",
           "alt": "alpha",
@@ -609,6 +614,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "alpha",
           "referenceType": "shortcut",
           "alt": "alpha",

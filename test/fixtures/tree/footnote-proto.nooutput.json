@@ -23,6 +23,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^tostring",
           "referenceType": "shortcut",
           "children": [
@@ -77,6 +78,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^__proto__",
           "referenceType": "shortcut",
           "children": [
@@ -167,6 +169,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^constructor",
           "referenceType": "shortcut",
           "children": [
@@ -239,6 +242,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^tostring",
           "referenceType": "shortcut",
           "children": [
@@ -329,6 +333,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^constructor",
           "referenceType": "shortcut",
           "children": [
@@ -419,6 +424,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^__proto__",
           "referenceType": "shortcut",
           "children": [

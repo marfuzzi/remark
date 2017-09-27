@@ -67,7 +67,7 @@ function emphasis(eat, value, silent) {
 
         return eat(subvalue + queue + marker)({
           type: 'emphasis',
-          markup: "*",
+          markup: '*',
           children: self.tokenizeInline(queue, now)
         });
       }

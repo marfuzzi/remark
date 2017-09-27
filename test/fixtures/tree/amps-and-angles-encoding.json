@@ -232,6 +232,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "1",
           "referenceType": "full",
           "children": [
@@ -321,6 +322,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "2",
           "referenceType": "full",
           "children": [

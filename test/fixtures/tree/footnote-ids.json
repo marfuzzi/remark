@@ -23,6 +23,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^the generated",
           "referenceType": "shortcut",
           "children": [
@@ -77,6 +78,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^1",
           "referenceType": "shortcut",
           "children": [
@@ -149,6 +151,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^1",
           "referenceType": "shortcut",
           "children": [

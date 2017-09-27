@@ -68,7 +68,7 @@ function strong(eat, value, silent) {
 
         return eat(subvalue + queue + subvalue)({
           type: 'strong',
-          markup: "**",
+          markup: '**',
           children: self.tokenizeInline(queue, now)
         });
       }

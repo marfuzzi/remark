@@ -17,6 +17,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "bar",
                   "referenceType": "full",
                   "children": [
@@ -92,6 +93,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "bar",
                   "referenceType": "full",
                   "children": [
@@ -167,6 +169,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "^bar",
                   "referenceType": "full",
                   "children": [
@@ -242,6 +245,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "^bar",
                   "referenceType": "full",
                   "children": [

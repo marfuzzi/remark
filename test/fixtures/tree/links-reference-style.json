@@ -23,6 +23,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "1",
           "referenceType": "full",
           "children": [
@@ -112,6 +113,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "1",
           "referenceType": "full",
           "children": [
@@ -201,6 +203,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "1",
           "referenceType": "full",
           "children": [
@@ -313,6 +316,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "b",
           "referenceType": "full",
           "children": [
@@ -453,6 +457,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "once",
           "referenceType": "collapsed",
           "children": [
@@ -542,6 +547,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "twice",
           "referenceType": "collapsed",
           "children": [
@@ -631,6 +637,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "thrice",
           "referenceType": "collapsed",
           "children": [
@@ -720,6 +727,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "four",
           "referenceType": "collapsed",
           "children": [
@@ -902,6 +910,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "this",
           "referenceType": "full",
           "children": [
@@ -991,6 +1000,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "this",
           "referenceType": "full",
           "children": [
@@ -1080,6 +1090,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "this",
           "referenceType": "collapsed",
           "children": [
@@ -1169,6 +1180,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "this",
           "referenceType": "collapsed",
           "children": [
@@ -1258,6 +1270,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "this",
           "referenceType": "shortcut",
           "children": [
@@ -1347,6 +1360,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "that",
           "referenceType": "collapsed",
           "children": [
@@ -1436,6 +1450,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "that",
           "referenceType": "collapsed",
           "children": [
@@ -1525,6 +1540,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "that",
           "referenceType": "shortcut",
           "children": [
@@ -1614,6 +1630,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "this",
           "referenceType": "collapsed",
           "children": [
@@ -1703,6 +1720,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "this",
           "referenceType": "shortcut",
           "children": [
@@ -2020,6 +2038,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "link breaks",
           "referenceType": "shortcut",
           "children": [
@@ -2115,6 +2134,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "link breaks",
           "referenceType": "shortcut",
           "children": [

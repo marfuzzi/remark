@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "b\\-r",
           "referenceType": "full",
           "children": [
@@ -94,6 +95,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "b\\*r*",
           "referenceType": "collapsed",
           "children": [
@@ -182,6 +184,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "b\\*r*",
           "referenceType": "shortcut",
           "children": [
@@ -288,6 +291,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "b\\*r*",
           "referenceType": "full",
           "alt": "foo",
@@ -324,6 +328,7 @@
         },
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "b\\*r*",
           "referenceType": "collapsed",
           "alt": "b*r*",
@@ -360,6 +365,7 @@
         },
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "b\\*r*",
           "referenceType": "shortcut",
           "alt": "b*r*",

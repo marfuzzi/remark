@@ -17,6 +17,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": " ",
                   "referenceType": "shortcut",
                   "children": [
@@ -164,6 +165,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "x",
                   "referenceType": "shortcut",
                   "children": [
@@ -247,6 +249,7 @@
                       "children": [
                         {
                           "type": "linkReference",
+                          "markup": ["[", "]", "(", ")"],
                           "identifier": "x",
                           "referenceType": "shortcut",
                           "children": [
@@ -371,6 +374,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": " ",
                   "referenceType": "shortcut",
                   "children": [

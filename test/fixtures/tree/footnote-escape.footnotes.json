@@ -23,6 +23,7 @@
         },
         {
           "type": "footnoteReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "wi\\-ki",
           "position": {
             "start": {

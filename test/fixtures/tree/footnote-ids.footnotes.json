@@ -75,6 +75,7 @@
         },
         {
           "type": "footnoteReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "1",
           "position": {
             "start": {

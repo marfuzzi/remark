@@ -23,6 +23,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^this is the _actual_ footnote.",
           "referenceType": "shortcut",
           "children": [

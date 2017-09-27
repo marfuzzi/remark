@@ -673,6 +673,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "ref",
           "referenceType": "shortcut",
           "children": [
@@ -797,6 +798,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "ref",
           "referenceType": "shortcut",
           "children": [
@@ -1323,6 +1325,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "two*three",
                   "referenceType": "shortcut",
                   "children": [
@@ -1398,6 +1401,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "two\\*three",
                   "referenceType": "shortcut",
                   "children": [
@@ -1507,6 +1511,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "a\\a",
                   "referenceType": "shortcut",
                   "children": [
@@ -1582,6 +1587,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "a\\\\a",
                   "referenceType": "shortcut",
                   "children": [
@@ -1691,6 +1697,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "a\\\\\\a",
                   "referenceType": "shortcut",
                   "children": [
@@ -1800,6 +1807,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "a_a\\_a",
                   "referenceType": "shortcut",
                   "children": [

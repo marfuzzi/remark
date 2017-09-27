@@ -205,6 +205,7 @@
               "children": [
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "foo",
                   "referenceType": "collapsed",
                   "children": [
@@ -261,6 +262,7 @@
                 },
                 {
                   "type": "linkReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "foo",
                   "referenceType": "shortcut",
                   "children": [
@@ -418,6 +420,7 @@
               "children": [
                 {
                   "type": "footnoteReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "foo",
                   "position": {
                     "start": {
@@ -454,6 +457,7 @@
                 },
                 {
                   "type": "footnoteReference",
+                  "markup": ["[", "]", "(", ")"],
                   "identifier": "foo",
                   "position": {
                     "start": {

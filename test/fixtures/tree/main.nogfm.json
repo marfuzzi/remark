@@ -81,6 +81,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "test",
           "referenceType": "full",
           "children": [

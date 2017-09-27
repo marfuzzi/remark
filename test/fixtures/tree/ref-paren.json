@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "hi",
           "referenceType": "shortcut",
           "children": [

@@ -23,6 +23,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^wiki",
           "referenceType": "shortcut",
           "children": [
@@ -112,6 +113,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^wiki",
           "referenceType": "shortcut",
           "children": [

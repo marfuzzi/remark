@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "bar",
           "referenceType": "shortcut",
           "children": [
@@ -78,6 +79,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "bar",
           "referenceType": "shortcut",
           "children": [
@@ -133,6 +135,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "bar",
           "referenceType": "shortcut",
           "children": [

@@ -1725,6 +1725,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "src",
           "referenceType": "full",
           "children": [
@@ -1925,6 +1926,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "1",
           "referenceType": "full",
           "children": [
@@ -1979,6 +1981,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "2",
           "referenceType": "full",
           "children": [
@@ -2033,6 +2036,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "3",
           "referenceType": "full",
           "children": [
@@ -2087,6 +2091,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "4",
           "referenceType": "full",
           "children": [
@@ -2143,6 +2148,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "5",
           "referenceType": "full",
           "children": [
@@ -2197,6 +2203,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "6",
           "referenceType": "full",
           "children": [
@@ -4914,6 +4921,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "bq",
           "referenceType": "full",
           "children": [
@@ -4968,6 +4976,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "l",
           "referenceType": "full",
           "children": [
@@ -5118,6 +5127,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "1",
           "referenceType": "full",
           "children": [
@@ -5172,6 +5182,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "2",
           "referenceType": "full",
           "children": [
@@ -8461,6 +8472,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "square brackets",
           "referenceType": "shortcut",
           "children": [
@@ -9821,6 +9833,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "daring fireball",
           "referenceType": "shortcut",
           "children": [

@@ -23,6 +23,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "tostring",
           "referenceType": "full",
           "children": [
@@ -77,6 +78,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "constructor",
           "referenceType": "full",
           "children": [
@@ -131,6 +133,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "__proto__",
           "referenceType": "full",
           "children": [

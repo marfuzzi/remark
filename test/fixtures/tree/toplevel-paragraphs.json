@@ -656,6 +656,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "how",
           "referenceType": "full",
           "children": [

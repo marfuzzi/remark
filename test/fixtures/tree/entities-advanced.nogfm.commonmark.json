@@ -854,6 +854,7 @@
             },
             {
               "type": "imageReference",
+              "markup": ["[", "]", "(", ")"],
               "identifier": "12",
               "referenceType": "full",
               "alt": "\n  l©nks\n",
@@ -918,6 +919,7 @@
           "children": [
             {
               "type": "linkReference",
+              "markup": ["[", "]", "(", ")"],
               "identifier": "1",
               "referenceType": "shortcut",
               "children": [
@@ -1082,6 +1084,7 @@
           "children": [
             {
               "type": "linkReference",
+              "markup": ["[", "]", "(", ")"],
               "identifier": " 1 ",
               "referenceType": "shortcut",
               "children": [

@@ -1574,6 +1574,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "favicon",
           "referenceType": "full",
           "alt": "AT&T with entity",
@@ -1610,6 +1611,7 @@
         },
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "favicon",
           "referenceType": "full",
           "alt": "AT&T with numeric entity",
@@ -1646,6 +1648,7 @@
         },
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "favicon",
           "referenceType": "full",
           "alt": "AT&T without entity",
@@ -1754,6 +1757,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "foo&bar",
           "referenceType": "shortcut",
           "children": [
@@ -1808,6 +1812,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "foo&bar",
           "referenceType": "collapsed",
           "children": [
@@ -1862,6 +1867,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "foo&amp;bar",
           "referenceType": "shortcut",
           "children": [
@@ -1950,6 +1956,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "foo&amp;bar",
           "referenceType": "collapsed",
           "children": [

@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "alpha",
           "referenceType": "shortcut",
           "children": [
@@ -78,6 +79,7 @@
       "children": [
         {
           "type": "imageReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "charlie",
           "referenceType": "shortcut",
           "alt": "charlie",

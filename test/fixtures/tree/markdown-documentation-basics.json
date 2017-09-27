@@ -125,6 +125,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "s",
           "referenceType": "full",
           "children": [
@@ -225,6 +226,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "d",
           "referenceType": "full",
           "children": [
@@ -358,6 +360,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "src",
           "referenceType": "full",
           "children": [

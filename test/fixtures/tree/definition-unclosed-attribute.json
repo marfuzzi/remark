@@ -6,6 +6,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "baz",
           "referenceType": "shortcut",
           "children": [
@@ -78,6 +79,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "foo",
           "referenceType": "shortcut",
           "children": [
@@ -150,6 +152,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "bar",
           "referenceType": "shortcut",
           "children": [
@@ -222,6 +225,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "baz",
           "referenceType": "shortcut",
           "children": [
@@ -294,6 +298,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "foo",
           "referenceType": "shortcut",
           "children": [
@@ -366,6 +371,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "bar",
           "referenceType": "shortcut",
           "children": [
@@ -438,6 +444,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "baz",
           "referenceType": "shortcut",
           "children": [
@@ -544,6 +551,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "foo",
           "referenceType": "shortcut",
           "children": [
@@ -650,6 +658,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "bar",
           "referenceType": "shortcut",
           "children": [

@@ -23,6 +23,7 @@
         },
         {
           "type": "footnoteReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "somesamplefootnote",
           "position": {
             "start": {
@@ -146,6 +147,7 @@
         },
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "paragraph",
           "referenceType": "shortcut",
           "children": [
@@ -200,6 +202,7 @@
         },
         {
           "type": "footnoteReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "documentdetails",
           "position": {
             "start": {
@@ -361,6 +364,7 @@
             },
             {
               "type": "linkReference",
+              "markup": ["[", "]", "(", ")"],
               "identifier": "paragraph",
               "referenceType": "shortcut",
               "children": [

@@ -185,6 +185,7 @@ function reference(eat, value, silent) {
 
   node = {
     type: type + 'Reference',
+    markup: ['[', ']', '(', ')'],
     identifier: normalize(identifier)
   };
 

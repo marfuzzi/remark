@@ -41,11 +41,13 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "baz",
           "referenceType": "full",
           "children": [
             {
               "type": "imageReference",
+              "markup": ["[", "]", "(", ")"],
               "identifier": "bar",
               "referenceType": "full",
               "alt": "Foo",
@@ -133,6 +135,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "baz",
           "referenceType": "full",
           "children": [
@@ -223,6 +226,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "baz",
           "referenceType": "full",
           "children": [
@@ -316,6 +320,7 @@
       "children": [
         {
           "type": "linkReference",
+          "markup": ["[", "]", "(", ")"],
           "identifier": "^foo",
           "referenceType": "shortcut",
           "children": [
